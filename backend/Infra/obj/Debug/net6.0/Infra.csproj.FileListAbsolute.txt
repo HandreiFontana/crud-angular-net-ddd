@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Infra.deps.json
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Infra.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Infra.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\refint\Infra.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\ref\Infra.dll
