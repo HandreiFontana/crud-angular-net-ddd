@@ -12,3 +12,8 @@
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.pdb
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\ref\Infra.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Domain.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Entidades.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Domain.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\bin\Debug\net6.0\Entidades.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
