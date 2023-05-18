@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Services
 {
-    internal class ServiceState : IStateService
+    public class ServiceState : IStateService
     {
 
         private readonly IState _IState;

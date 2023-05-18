@@ -93,3 +93,12 @@
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Application.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Domain.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Entidades.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Infra.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Application.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Domain.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Infra.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\WebAPI\bin\Debug\net6.0\Entidades.pdb

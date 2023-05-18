@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Infra.Repository
 {
-    internal class UserRepository : GenericRepository<ApplicationUser>, IUser
+    public class UserRepository : GenericRepository<ApplicationUser>, IUser
     {
         private readonly DbContextOptions<Context> _optionsBuilder;
 
