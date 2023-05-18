@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LWUeVzSqDpe6PITZgMa3PRGy4VsDcCDYf8pyXauj652IFyUxnVgYuqbkw2qtrEqJZgYmeSoD0SOB6GJe6yiodA==",
+  "dgSpecHash": "V2OPf82K/DxcxWJa+fIeQCBqCIaNlKt9imFuZTvrHoejwl2lmQQvP4UmQCM9Bxg3e40c9mTMokWoXspCGySaZA==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu-20.04\\opt\\crud-angular-net-ddd\\backend\\Application\\Application.csproj",
   "expectedPackageFiles": [

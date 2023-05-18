@@ -1210,6 +1210,19 @@
           }
         }
       },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
       "Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3740,6 +3753,11 @@
         "version.txt"
       ]
     },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
     "Entidades/1.0.0": {
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
@@ -3748,6 +3766,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain >= 1.0.0",
       "Entidades >= 1.0.0"
     ]
   },
@@ -3778,6 +3797,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "\\\\wsl.localhost\\Ubuntu-20.04\\opt\\crud-angular-net-ddd\\backend\\Domain\\Domain.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\opt\\crud-angular-net-ddd\\backend\\Domain\\Domain.csproj"
+            },
             "\\\\wsl.localhost\\Ubuntu-20.04\\opt\\crud-angular-net-ddd\\backend\\Entidades\\Entidades.csproj": {
               "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\opt\\crud-angular-net-ddd\\backend\\Entidades\\Entidades.csproj"
             }

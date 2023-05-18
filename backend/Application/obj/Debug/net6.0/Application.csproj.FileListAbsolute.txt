@@ -10,3 +10,8 @@
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\obj\Debug\net6.0\refint\Application.dll
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\obj\Debug\net6.0\Application.pdb
 \\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\obj\Debug\net6.0\ref\Application.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\bin\Debug\net6.0\Domain.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\bin\Debug\net6.0\Entidades.dll
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\bin\Debug\net6.0\Domain.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\bin\Debug\net6.0\Entidades.pdb
+\\wsl.localhost\Ubuntu-20.04\opt\crud-angular-net-ddd\backend\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
