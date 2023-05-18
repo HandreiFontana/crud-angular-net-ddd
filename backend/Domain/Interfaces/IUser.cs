@@ -8,6 +8,8 @@ namespace Domain.Interfaces
 {
     public interface IUser
     {
-        Task <bool> AddUser(string email, string password, int age, string phone);
+        Task<bool> AddUser(string email, string password, int age, string phone);
+
+        Task<bool> ExistUser(string email, string password);
     }
 }

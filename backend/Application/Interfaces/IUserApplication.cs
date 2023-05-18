@@ -9,5 +9,7 @@ namespace Application.Interfaces
     public interface IUserApplication
     {
         Task<bool> AddUser(string email, string password, int age, string phone);
+
+        Task<bool> ExistUser(string email, string password);
     }
 }

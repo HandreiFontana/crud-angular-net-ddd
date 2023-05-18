@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -45,6 +46,25 @@ namespace Infra.Repository
 
             return true;
             
+        }
+
+        public async Task<bool> ExistUser(string email, string password)
+        {
+            try
+            {
+                using (var data = new Context(_optionsBuilder))
+                {
+                    return await data.applicationUser.Where(u => u.Email.Equals(email) && u.PasswordHash.Equals(password))
+                        .AsNoTracking()
+                        .AnyAsync();
+                }
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+
+            return true;
         }
     }
 }
